@@ -8,4 +8,5 @@
 7. Iterate over the forward sequences list until it found 8 strands with crosstalk <= -6.
 8. Check the ddG using the 3rd script.
 9. Option to include the polyT's in the 4th script and also view the dot parens plus structures.
-10. Check the pair probability matrix among the sequences using the last script.
+10. Check the binding concentration using concentration.ipynb script.
+11. Check the pair probability matrix among the sequences using the last script.
